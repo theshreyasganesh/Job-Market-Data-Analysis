@@ -1,11 +1,11 @@
 
 # Tableau Case Study: Job Posting Data Analysis
 
-#Description
+# Description
 
 This project explores a real-world job posting dataset to uncover insights for a fictional recruitment company, DataSearch. The analysis aims to identify the most in-demand skills for Data Scientists, Data Analysts, and Data Engineers by leveraging Tableau's visualization techniques.
 
-#Objectives
+# Objectives
 
 Data Preparation: Import and clean the dataset to ensure it is ready for analysis.
 
@@ -15,7 +15,7 @@ Trend Analysis: Identify trends and patterns in job postings, including the most
 
 Dashboard Creation: Build an interactive Tableau dashboard to present the findings visually.
 
-#Features
+# Features
 
 Skill Demand Analysis: Visualizations showing the most sought-after skills across different data roles.
 
@@ -25,7 +25,7 @@ Interactive Filters: Users can filter insights based on role, company, and requi
 
 Dynamic Dashboard: A comprehensive Tableau dashboard summarizing all key findings.
 
-#Tools Used
+# Tools Used
 
 Tableau for data visualization and dashboard creation
 
@@ -33,7 +33,7 @@ Excel/CSV for data storage and preprocessing
 
 Python/Pandas for data cleaning
 
-#Conclusion
+# Conclusion
 
 This project provides valuable insights into the evolving job market for data professionals. By practicing data visualization, filtering, and dashboard creation, this case study enhances Tableau skills and reinforces the ability to present meaningful data insights effectively.
 
